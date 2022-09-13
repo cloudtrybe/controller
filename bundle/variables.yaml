@@ -1,0 +1,4 @@
+variables:
+- team: cloudtrybe
+- admin-user: daviddennis02-admin
+- manager-user: daviddennis02
